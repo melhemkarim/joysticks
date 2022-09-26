@@ -1,0 +1,79 @@
+.header {
+    position: relative;
+    background-color: #000123;
+
+}
+
+
+
+.custom-shape-divider-bottom-1663956065 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1663956065 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 110px;
+}
+
+.custom-shape-divider-bottom-1663956065 .shape-fill {
+    fill: #FF0F7B;
+}
+
+
+.navbarr img{
+    width: 300px;
+    height: 50px;
+}
+
+.header-body{
+    padding-top: 60px;
+    padding-bottom: 90px;
+}
+
+
+.header-body h1{
+    font-size: 100px;
+    letter-spacing: 20px;
+    padding-bottom: 20px;
+    color:#FF0F7B;
+    font-family: 'Anton', sans-serif;
+    padding-top: 50px;
+
+}
+
+.header-body img{
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.header-btn Button{
+    width: 100px;
+    color: #FF0F7B;
+    background-color: #75d6fb;
+    font-size: 18px;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2px;
+}
+
+
+
+
+.navbarr p{
+    font-family: 'Reem Kufi Ink', sans-serif;
+    color: white;
+    margin: 0 8px;
+}
+
+.navbarr p:hover{
+    color: #FF0F7B;
+    transition: 0.5 ease-in;
+    border-bottom:#75d6fb 1px dotted;
+}

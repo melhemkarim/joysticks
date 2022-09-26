@@ -1,0 +1,22 @@
+.footer{
+    background-color: #000123;
+    padding-top: 50px;
+}
+
+.footer img{
+    padding-top: 20px;
+}
+
+.footer h5{
+    color: #FF0F7B;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer a:hover{
+    border-bottom: 2px #FF0F7B solid;
+    transition: 0.5 ease-in;
+}

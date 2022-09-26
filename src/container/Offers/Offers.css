@@ -1,0 +1,60 @@
+.offers{
+    background-image: url('./imgs/bg.png');
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.offers-title{
+    text-align: center;
+}
+
+.offers-title h1{
+    font-family: 'Anton', sans-serif;
+    color: white ;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-shadow: #FF0F7B 2px 2px;
+}
+
+
+.offers-col {
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+}
+
+.box{
+	box-shadow: #FF0F7B 3px 3px 3px 3px;
+    height: 300px;
+    width: 250px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+}
+
+.box:hover{
+    box-shadow: #75d6fb 3px 3px 3px 3px;
+    transition: 0.5s ease-in-out;
+}
+
+.box h2{
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.box p {
+    font-family: 'Reem Kufi Ink', sans-serif;
+    letter-spacing: 2px;
+    padding-bottom: 20px;
+}
+
+.box h3{
+    font-family: 'Reem Kufi Ink', sans-serif;
+    letter-spacing: 2px;
+    padding-top: 20px;
+    color: #FF0F7B;
+    font-size: 35px;
+}

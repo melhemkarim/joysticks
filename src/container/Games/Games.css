@@ -1,0 +1,33 @@
+.games{
+    background-image: url('./imgs/bg.png');
+    justify-content: center;
+    height: 730px;
+}
+
+
+.games-title{
+    text-align: center;
+}
+
+.games-title h1{
+    font-family: 'Anton', sans-serif;
+    color: white ;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-shadow: #FF0F7B 2px 2px;
+}
+
+.games img{
+    padding-top: 50px;
+    height: 420px;
+    width: 600px;
+    margin: auto;
+    opacity: 50%;
+}
+
+.games h3{
+    font-family: 'Reem Kufi Ink', sans-serif;
+    letter-spacing: 3px;
+    font-size: 30px;
+    font-weight: bold;
+}
